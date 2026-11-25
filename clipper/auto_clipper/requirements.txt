@@ -1,0 +1,5 @@
+yt-dlp
+faster-whisper
+google-genai
+python-dotenv
+ffmpeg-python
